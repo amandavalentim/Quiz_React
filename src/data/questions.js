@@ -15,7 +15,7 @@ const data = [
       answer: "const",
     },
     {
-      question: "Qual dos tipos de dado a seguir não existe em JavaScript?",
+      question: "Qual dos tipos de dados a seguir não existe em JavaScript?",
       options: ["string", "number", "boolean", "float"],
       answer: "float",
     },

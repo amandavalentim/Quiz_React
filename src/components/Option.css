@@ -15,3 +15,13 @@
 #options-container .option p {
     margin-bottom: 0;
 }
+
+.correct {
+    background-color: #65e61b;
+    font-weight: bold;
+}
+
+.wrong {
+    background-color: #d42a14;
+    opacity: 0.4;
+}
